@@ -1,1 +1,1 @@
-# alu-interview
+Author: Lydia Ojoawo
